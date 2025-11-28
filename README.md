@@ -27,7 +27,8 @@ Collection of Java exercises and mini-projects.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn  
+- LinkedIn - https://www.linkedin.com/in/sk-akilur-rehman-9196121b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  
 - Instagram  
 - Discord  
 
