@@ -33,7 +33,7 @@ Collection of Java exercises and mini-projects.
   
 - Discord :- https://discord.gg/bC6tUfc4
 
-- Reddit ;- 
+- Reddit ;- https://www.reddit.com/u/Full_Chemical_3434/s/G1ErXea2vq
 
 ---
 
