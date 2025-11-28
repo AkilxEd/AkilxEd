@@ -27,10 +27,11 @@ Collection of Java exercises and mini-projects.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn - https://www.linkedin.com/in/sk-akilur-rehman-9196121b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn :- https://www.linkedin.com/in/sk-akilur-rehman-9196121b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   
-- Instagram  
-- Discord  
+- Instagram :- https://www.instagram.com/i_amakil?igsh=MTZ0MDk0ZDBsY292aA==
+  
+- Discord :-
 
 ---
 
