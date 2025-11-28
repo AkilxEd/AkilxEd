@@ -31,7 +31,9 @@ Collection of Java exercises and mini-projects.
   
 - Instagram :- https://www.instagram.com/i_amakil?igsh=MTZ0MDk0ZDBsY292aA==
   
-- Discord :-
+- Discord :- https://discord.gg/bC6tUfc4
+
+- Reddit ;- 
 
 ---
 
